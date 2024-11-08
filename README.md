@@ -1,4 +1,11 @@
 
+<h1 align="center">Hi 👋, I'm Chinh Chinh</h1>
+<h3 align="center">A passionate backend developer from VietNam</h3>
+
+- 📫 How to reach me **dchinh6803@gmail.com**
+
+- ⚡ Fun fact **I think I am funny,friendly**
+
 <div align="center" style="display: inline_block"><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
