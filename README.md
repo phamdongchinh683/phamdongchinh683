@@ -37,6 +37,3 @@
 
 <br>
 
-<div align="center">
-  <img  src="https://github.com/eraydmrcoglu/eraydmrcoglu/blob/main/github-user-contribution.svg" alt="github contribution grid snake animation" />
-</div>
