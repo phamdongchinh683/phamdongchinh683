@@ -6,9 +6,7 @@
 
 - ⚡ Fun fact **I think I am funny,friendly**
 
-<br>
 ![phamdongchinh683's Stats](https://github-readme-stats.vercel.app/api?username=phamdongchinh683&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-<br>
 ![phamdongchinh683's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phamdongchinh683&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 <div align="center" style="display: inline_block"><br>
