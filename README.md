@@ -6,10 +6,8 @@
 
 - ⚡ Fun fact **I think I am funny,friendly**
 
-<div align="center" style="display: inline_block">
 ![phamdongchinh683's Stats](https://github-readme-stats.vercel.app/api?username=phamdongchinh683&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![phamdongchinh683's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phamdongchinh683&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-</div>
 
 <div align="center" style="display: inline_block"><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
