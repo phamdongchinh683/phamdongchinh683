@@ -11,12 +11,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+Guys!;I'm+Eray+Demircioglu!&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
-<div align="center">
-  <a href="https://github.com/eraydmrcoglu">
-  <img height="180em" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=eraydmrcoglu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eraydmrcoglu&theme=algolia&layout=compact"/>
-</div>
-
 <div align="center" style="display: inline_block"><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
