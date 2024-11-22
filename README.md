@@ -29,7 +29,7 @@
 
 
 <div align="center">
-  <img  src="https://github.com/eraydmrcoglu/eraydmrcoglu/blob/main/github-user-contribution.svg" alt="github contribution grid snake animation" />
+  <img  src="https://github.com/eraydmrcoglu/eraydmrcoglu/blob/main/github-user-contribution.svg](https://github.com/phamdongchinh683/phamdongchinh683/blob/main/snake.svg" alt="github contribution grid snake animation" />
 </div>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Chinh683&label=Profile%20Views&color=2&icon=2&pretty=false" />
