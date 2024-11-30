@@ -1,6 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Chinh Chinh</h1>
-<h3 align="center">A passionate backend developer from VietNam</h3>
+<h3 align="center">
+  I'm a **backend development enthusiast** with a passion for building robust and scalable server-side applications. My journey in tech is driven by curiosity, a love for problem-solving, and a commitment to crafting clean and efficient code.
+</h3>
+
+
+
+## 🚀 My Goal
+I aim to become a proficient **backend developer** specializing in **NestJS** with **Node.js**, creating solutions that power seamless and performant applications.
 
 - 📫 How to reach me **dchinh6803@gmail.com**
 
