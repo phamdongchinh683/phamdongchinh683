@@ -10,8 +10,7 @@ I aim to become a proficient **backend developer** specializing in **NestJS** wi
 - ⚡ Fun fact **I think I am funny,friendly**
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=phamdongchinh683&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=phamdongchinh683&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=phamdongchinh683&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phamdongchinh683&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
   
 <div align="center" style="display: inline_block"><br>
