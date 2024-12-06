@@ -15,7 +15,7 @@ I aim to become a proficient **backend developer** specializing in **NestJS** wi
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=phamdongchinh683&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phamdongchinh683&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=phamdongchinh683&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=phamdongchinh683&theme=transparent&hide)<br/>
 
 <div align="center" style="display: inline_block"><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
