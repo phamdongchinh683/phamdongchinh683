@@ -33,6 +33,6 @@ I aim to become a proficient **backend developer** specializing in **NestJS** wi
 <div align="center">
   
 </div>
-<a href="https://visitcount.itsvg.in">
+<!-- <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Chinh683&label=Profile%20Views&color=2&icon=2&pretty=false" />
-</a>
+</a> -->
