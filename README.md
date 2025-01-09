@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Chinh Chinh</h1>
 <h3 align="center">A passionate backend developer from VietNam</h3>
 
