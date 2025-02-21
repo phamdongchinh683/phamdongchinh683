@@ -23,7 +23,7 @@ I aim to become a proficient **backend developer** specializing in **NestJS** wi
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/BackendDevelopment/nestjs.svg" alt="nestjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/mongodb.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/mysql.svg" alt="mysql" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/postgres" alt="postgres" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/postgres.svg" alt="postgres" width="40" height="40"/>
 
 
 </div>
