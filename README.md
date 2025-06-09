@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from VietNam</h3>
 
 ## 🚀 My Goal
-I aim to become a proficient **backend developer** specializing in **NestJS** with **Node.js**, creating solutions that power seamless and performant applications.
+I aim to become a proficient full stack developer, specializing in NestJS and Node.js, while building scalable, high-performance applications using modern technologies like JavaScript, TypeScript, and React for the frontend, and SQL/NoSQL databases on the backend.
 
 - 📫 How to reach me **dchinh6803@gmail.com**
 
